@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BottomNavigationDemo</string>
+    <string name="str_home">首頁</string>
+    <string name="str_setting">設定</string>
+    <string name="str_me">我的資料</string>
+</resources>
